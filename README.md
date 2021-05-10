@@ -1,6 +1,6 @@
 # Neuron transfer impedance (_Z_<sub>c</sub>)
 
-Calculation of transfer impedance (_Z_<sub>c</sub>) was done as previously descrirbed (Jaffe, 1999).
+Calculation of transfer impedance (_Z_<sub>c</sub>) was done as previously descrirbed [Jaffe _et al_, 1999](https://journals.physiology.org/doi/full/10.1152/jn.1999.82.6.3268).
 The following formula was used to compute average _Z_<sub>c</sub>, 
 
 <img src="https://user-images.githubusercontent.com/42112716/117706410-8acc7800-b1cd-11eb-9ccd-e1a674a2b021.png" width="400"/>
